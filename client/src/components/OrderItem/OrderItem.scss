@@ -1,0 +1,31 @@
+.order-item-wrapper {
+    width: 95%;
+    height: 200px;
+    border: 1px solid rgb(118, 105, 105);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(172, 172, 198);
+    display: flex;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.order-products-list {
+    height: 100%;
+    width: 70%;
+    display: inline-block;
+    scroll-behavior: auto;
+    overflow-y: scroll;
+}
+
+.order-total-price {
+    height: 100%;
+    width: 25%;
+    margin-left: 40px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.order-total-price-inside {
+    padding-top: 85px;
+}

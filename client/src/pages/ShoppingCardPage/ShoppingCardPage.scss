@@ -1,0 +1,85 @@
+.wrapper {
+    margin: 10px;
+    margin-top: 20px;
+    display: flex;
+    height: 80vh;
+}
+
+.contact-info {
+    width: 620px;
+    height: 88%;
+    background-color: rgb(188, 178, 178);
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.cart {
+    width: 50%;
+    height: 88%;
+    background-color: rgb(160, 160, 204);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.submit-area {
+    padding: 5px;
+    margin: 30px;
+    margin-top: -20px;
+    width: 95%;
+    height: 50px;
+    background-color: rgb(118, 118, 118);
+    border: 1px solid rgb(118, 105, 105);
+    border-radius: 20px;
+    display: flex;
+}
+
+.cart-bottom {
+    width: 100%;
+}
+
+.cart-total-price {
+    float: right;
+    margin-right: 300px;
+}
+
+.cart-submit-btn {
+    float: right;
+    margin-right: 5px;
+    width: 200px;
+    height: 48px;
+    background-color: rgb(200, 111, 111);
+    border: 1px solid rgb(118, 105, 105);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.cart-submit-btn:hover {
+    background-color: rgb(171, 87, 87);
+    cursor: pointer;
+}
+
+.sbmt {
+    padding: 11px;
+    font-size: 20px;
+}
+
+.prc {
+    font-size: 25px;
+    padding: 10px;
+}
+
+.contact-info-wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+.contact-info-container {
+    margin-left: 35%;
+    padding-top: 20%;
+}
+
+.contact-info-component {
+    margin-bottom: 25px;
+}

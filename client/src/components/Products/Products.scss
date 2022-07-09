@@ -1,0 +1,12 @@
+.products-wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+.productslist {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    scroll-behavior: auto;
+    overflow-y: scroll;
+}
